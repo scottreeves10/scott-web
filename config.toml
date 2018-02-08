@@ -1,4 +1,5 @@
 baseurl = "/"
+relativeURLs = true
 languageCode = "en-us"
 title = "For the love of data"
 theme = "hugo-lithium-theme"
